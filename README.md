@@ -12,6 +12,9 @@ Here are some use cases:
 * Lunch and learn sessions
 
 # Requirements
+* Python3
+* Flask
+* requests
 ```
 pip3 install Flask
 pip3 install requests

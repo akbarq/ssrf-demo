@@ -1,5 +1,8 @@
-# ssrf-demo
+# SSRF-demo
 Simple flask app to demonstrate Server-Side Request Forgery (SSRF) vulnerabiliry and attack
+
+# OWASP Reference
+https://owasp.org/www-community/attacks/Server_Side_Request_Forgery
 
 # How can I use the ssrf-demo app?
 

@@ -6,7 +6,7 @@ https://owasp.org/www-community/attacks/Server_Side_Request_Forgery
 
 # How can I use the ssrf-demo app?
 
-Here some use cases:
+Here are some use cases:
 * Educating developers on SSRF risk and impact
 * Self-learning
 * Lunch and learn sessions
